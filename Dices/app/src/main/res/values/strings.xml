@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Dices</string>
+    <string name="roll">roll</string>
+    <string name="tap">Tap the screen to roll the dices</string>
+    <string name="button">Press the button to roll the dices</string>
+    <string name="shake">Shake the device to roll the dices</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="settings">SETTINGS</string>
+    <string name="rolltype">Rolling method</string>
+    <string name="dicesound">Dices sound</string>
+    <string name="backgroundchange">Background</string>
+    <string name="credits">Dices v. 1.6 \nGiovanni Roma, 2019</string>
+    <string name="todo">TODO</string>
+
+    <string-array name="rollingMethod">
+        <item>Tap</item>
+        <item>Button</item>
+        <item>Shake</item>
+    </string-array>
+
+    <string-array name="diceSounds">
+        <item>None</item>
+        <item>Rolling 1</item>
+        <item>Rolling 2</item>
+        <item>Random</item>
+        <item>Stonks</item>
+    </string-array>
+
+</resources>
