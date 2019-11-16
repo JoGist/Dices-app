@@ -1,2 +1,3 @@
 # Dices-app
-A dice rolling app developed on Android Studio
+
+A simple dices rolling app developed on Android Studio for learning purpose. It works on any devices running Android Pie or above.
